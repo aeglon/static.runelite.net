@@ -1665,6 +1665,7 @@
   },
   "577": {
     "name": "Blue wizard robe",
+    "weight": 0.907,
     "equipable": true,
     "equipment": {
       "slot": 4,
@@ -49045,7 +49046,12 @@
   },
   "13190": {
     "name": "Old school bond",
+    "weight": 0.003,
     "ge_limit": 100
+  },
+  "13192": {
+    "name": "Old school bond (untradeable)",
+    "weight": 0.003
   },
   "13193": {
     "name": "Bone bolt pack",
@@ -51555,6 +51561,7 @@
   "19556": {
     "name": "Monkey",
     "quest": true,
+    "weight": 0.01,
     "equipable": true,
     "equipment": {
       "slot": 1
@@ -65908,6 +65915,10 @@
       "str": 89,
       "aspeed": 4
     }
+  },
+  "24585": {
+    "name": "Looting bag note",
+    "ge_limit": 40
   },
   "24589": {
     "name": "Blighted manta ray",
